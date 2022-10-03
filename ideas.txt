@@ -1,0 +1,14 @@
+    might want to make a function that takes the url as an input and then does the basic scraping process (once I figure out what that is) 
+and then I can loop through the pages on coingecko (perhaps by incrementing the page # within the url string) to search for coins meeting
+certain criteria i.e. under a certain marketcap. And eventually even have it do stuff like look at social media presence, etc. But start
+with the basics lls. And maybe have it print to a file the coins that are worth further investigation.
+
+    also could have it navigate webpages by finding the name of the coin within the html and then going to the url - like it could find the 
+name and then request.get from 'https://www.coingecko.com/en/coins/<coin name>'
+
+    and the page incrementation could be done => the format is 'https://www.coingecko.com/?page=<page number>' and I could just do a loop that
+increments the page number.
+
+    for criteria, I probably want like sub 5 or 10m marketcap and created recently - need to figure out how recently I want, though.
+
+    so i need to figure out how to parse the marketcap string into an int to check if it's below 5 million
