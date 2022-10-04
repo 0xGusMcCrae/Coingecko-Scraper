@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 
+
 def scrape(_url):
     webpage = requests.get(url)
     soup = BeautifulSoup(webpage.content, 'html.parser')
@@ -19,26 +20,29 @@ def scrape(_url):
             output.write(f"\n\nToken: {tokenName}")
             output.write(f"\nTicker: {ticker}")
             output.write(f"\nMarket Cap: {marketCap}")
-            #go into token's individual page to find release date
+
+            #go into token's individual page to find twitter, get twitter join date and follower count
             tokenName = tokenName.lower().replace(' ','-')
             tokenUrl = f'https://www.coingecko.com/en/coins/{tokenName}'
-            tokenSocialUrl = tokenUrl + '#social'
-            print(f'\n{tokenSocialUrl}')
-            tokenPage = requests.get(tokenUrl,timeout=None)
-            time.sleep(1)
-            tokenSocialPage = requests.get(tokenSocialUrl,timeout=None)
-            time.sleep(1)
+            print('\n' + tokenUrl)
+
+            tokenPage = requests.get(tokenUrl)
             tokenSoup = BeautifulSoup(tokenPage.content,'html.parser')
-            tokenSocialSoup = BeautifulSoup(tokenSocialPage.content,'html.parser')
-            # for item in tokenSocialSoup:
-            #     output.write(str(item))
-            launchDate = tokenSoup.find_all('g', class_="highcharts-label highcharts-range-input")
-            output.write(f"\nDate Added to Coingecko: {launchDate}")
-            twitterFollowers = tokenSocialSoup.find_all('div', class_="mt-4 mb-2 text-2xl")
-            output.write(f"\nTwitter Followers: {twitterFollowers}")
+            try:
+                twitterUrl = tokenSoup.find('i', class_="fab mr-1 fa-twitter").parent.get('href')
+                print(twitterUrl)
+            except:
+                twitterUrl = None
+            if twitterUrl is not None:
+                twitterPage = requests.get(twitterUrl)
+                twitterSoup = BeautifulSoup(twitterPage.content,'html.parser')
+                twitterJoinDate = twitterSoup.find('span',class_="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0").string
+                print(twitterJoinDate)
+                # output.write(f"\nTwitter Join Date: {twitterJoinDate}")
     output.close()
 
  #need to figure out how to wait until javascript is done running to get the html
+ #or how to get twitter not to return Something went wrong, but don’t fret — let’s give it another shot.
 
 
 for i in range(12,13):

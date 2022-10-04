@@ -54,3 +54,32 @@ and to be honest I might want to just change the code to get it to print the nam
 
     apparently beautifulsoup can't load dynamic pages, and since the elements I want are being created
     by javascript after the initial load, I need to find a workaround
+
+    even with the html.render thing it's still not loading what I want it to load, I might just
+    have to go to the twitter page for this stuff
+
+     sesh = HTMLSession()
+    response = sesh.get(tokenUrl)
+    response.html.render()
+    
+    tokenSoup = BeautifulSoup(response.html.raw_html,'html.parser')
+    tried this, didnt work
+
+    gonna try to grab the href out of the parent of this div:
+    <i class="fab mr-1 fa-twitter"></i>
+
+    can grab twitter join date from this div:
+    <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Joined November 2017</span>
+
+    I still want to parse the join date to a date format so I can filter for 
+    join dates within the past like 6 months or so.
+
+    followers from this div:
+    <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">113.5K</span>
+
+    but apperently twitter might not work with requests.get anymore
+
+    somehow the follower and join date classes are the same? seems weird since they're clearly different css properties
+    and requests only finds one item with that class in the page - twitter is clearly up to shenanigans
+
+    maybe I'm just gonna have to to use the stupid twitter api

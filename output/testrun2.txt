@@ -1,337 +1,414 @@
 
 
-Token: Glitch Protocol
-Ticker: GLCH
-Market Cap: $4,991,978
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Skey Network
-Ticker: SKEY
-Market Cap: $4,987,694
-Date Added to Coingecko: []
-Twitter Followers: []
-
 Token: Edgeless
 Ticker: EDG
-Market Cap: $4,983,953
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Plian
-Ticker: PI
-Market Cap: $4,971,911
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,996,768
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: DappRadar
 Ticker: RADAR
-Market Cap: $4,946,700
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,993,225
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Ridotto
-Ticker: RDT
-Market Cap: $4,933,376
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,979,865
 
-Token: Rangers Protocol
-Ticker: RPG
-Market Cap: $4,928,208
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Push Protocol
+Ticker: PUSH
+Market Cap: $4,966,737
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: BYTZ
-Ticker: BYTZ
-Market Cap: $4,924,011
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Skey Network
+Ticker: SKEY
+Market Cap: $4,959,513
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: FlatQube
-Ticker: QUBE
-Market Cap: $4,915,834
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Epik Prime
-Ticker: EPIK
-Market Cap: $4,903,491
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Safe Haven
+Ticker: SHA
+Market Cap: $4,936,248
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Crypton
 Ticker: CRP
-Market Cap: $4,897,868
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,923,894
 
-Token: CrowdSwap
-Ticker: CROWD
-Market Cap: $4,878,681
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: BYTZ
+Ticker: BYTZ
+Market Cap: $4,911,332
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Chain Guardians
-Ticker: CGG
-Market Cap: $4,872,816
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Ridotto
+Ticker: RDT
+Market Cap: $4,907,501
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Dohrnii
-Ticker: DHN
-Market Cap: $4,862,138
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Epik Prime
+Ticker: EPIK
+Market Cap: $4,906,304
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Mt Pelerin Shares
-Ticker: MPS
-Market Cap: $4,857,987
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Good Person Coin
-Ticker: GPCX
-Market Cap: $4,850,350
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: vEmpire DDAO
-Ticker: VEMP
-Market Cap: $4,848,385
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: PolkaBridge
-Ticker: PBR
-Market Cap: $4,845,429
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Realm
-Ticker: REALM
-Market Cap: $4,814,917
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Rangers Protocol
+Ticker: RPG
+Market Cap: $4,898,755
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Cardstack
 Ticker: CARD
-Market Cap: $4,813,169
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,890,529
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Polar Sync
-Ticker: POLAR
-Market Cap: $4,806,415
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: vEmpire DDAO
+Ticker: VEMP
+Market Cap: $4,870,127
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Good Person Coin
+Ticker: GPCX
+Market Cap: $4,857,388
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Chain Guardians
+Ticker: CGG
+Market Cap: $4,847,506
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token:  Plian
+Ticker: PI
+Market Cap: $4,842,092
+
+Token: Realm
+Ticker: REALM
+Market Cap: $4,815,598
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Aidos Kuneen
 Ticker: ADK
-Market Cap: $4,796,731
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Carbon Credit
-Ticker: CCT
-Market Cap: $4,771,766
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Ston
-Ticker: STON
-Market Cap: $4,763,557
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: HAPI
-Ticker: HAPI
-Market Cap: $4,761,868
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Nation3
-Ticker: NATION
-Market Cap: $4,743,408
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Z7DAO
-Ticker: Z7
-Market Cap: $4,719,899
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: PolkaFoundry
-Ticker: PKF
-Market Cap: $4,715,054
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: WOM Protocol
-Ticker: WOM
-Market Cap: $4,714,736
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Deri Protocol
-Ticker: DERI
-Market Cap: $4,712,572
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Beethoven X
-Ticker: BEETS
-Market Cap: $4,695,075
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,812,805
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Raptoreum
 Ticker: RTM
-Market Cap: $4,679,138
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,788,473
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: dHEDGE DAO
-Ticker: DHT
-Market Cap: $4,664,312
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Carbon Credit
+Ticker: CCT
+Market Cap: $4,776,207
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Atlas USV
-Ticker: USV
-Market Cap: $4,663,548
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: HAPI
+Ticker: HAPI
+Market Cap: $4,769,053
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: NerveNetwork
-Ticker: NVT
-Market Cap: $4,660,893
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: WOM Protocol
+Ticker: WOM
+Market Cap: $4,759,027
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Polar Sync
+Ticker: POLAR
+Market Cap: $4,745,918
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Nation3
+Ticker: NATION
+Market Cap: $4,733,211
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: PolyDoge
 Ticker: POLYDOGE
-Market Cap: $4,656,077
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,721,428
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Deri Protocol
+Ticker: DERI
+Market Cap: $4,713,348
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: FlatQube
+Ticker: QUBE
+Market Cap: $4,711,540
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Ston
+Ticker: STON
+Market Cap: $4,701,805
+
+Token: Beethoven X
+Ticker: BEETS
+Market Cap: $4,693,570
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Z7DAO
+Ticker: Z7
+Market Cap: $4,667,029
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: dHEDGE DAO
+Ticker: DHT
+Market Cap: $4,663,654
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: NerveNetwork
+Ticker: NVT
+Market Cap: $4,662,745
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Atlas USV
+Ticker: USV
+Market Cap: $4,659,732
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: PolkaFoundry
+Ticker: PKF
+Market Cap: $4,645,809
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: TriasLab
-Ticker: TRIAS 
-Market Cap: $4,647,302
-Date Added to Coingecko: []
-Twitter Followers: []
+Ticker: TRIAS
+Market Cap: $4,642,854
 
 Token: Buying.com
 Ticker: BUY
-Market Cap: $4,625,880
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,622,934
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: My DeFi Pet
 Ticker: DPET
-Market Cap: $4,583,691
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: NFT Worlds
-Ticker: WRLD
-Market Cap: $4,567,625
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,596,056
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: UFC Fan Token
 Ticker: UFC
-Market Cap: $4,542,778
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Safemars
-Ticker: SAFEMARS
-Market Cap: $4,535,953
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Revolt 2 Earn
-Ticker: RVLT
-Market Cap: $4,535,091
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: StableXSwap
-Ticker: STAX
-Market Cap: $4,533,463
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,567,408
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: DAOhaus
 Ticker: HAUS
-Market Cap: $4,532,652
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,519,262
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: DeFiAI
-Ticker: DFAI
-Market Cap: $4,502,996
-Date Added to Coingecko: []
-Twitter Followers: []
-
-Token: Robonomics Network
-Ticker: XRT
-Market Cap: $4,491,508
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: StableXSwap
+Ticker: STAX
+Market Cap: $4,503,472
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Polychain Monsters
 Ticker: PMON
-Market Cap: $4,487,427
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,499,047
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: Spool DAO
 Ticker: SPOOL
-Market Cap: $4,486,504
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,486,460
 
-Token: TigerCash
-Ticker: TCH
-Market Cap: $4,473,302
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Revolt 2 Earn
+Ticker: RVLT
+Market Cap: $4,480,647
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Block Ape Scissors
-Ticker: BAS
-Market Cap: $4,454,154
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: DeFiAI
+Ticker: DFAI
+Market Cap: $4,475,527
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Pibble
+Ticker: PIB
+Market Cap: $4,472,668
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Robonomics Network
+Ticker: XRT
+Market Cap: $4,469,479
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: ADAPad
 Ticker: ADAPAD
-Market Cap: $4,449,155
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,450,463
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: StackOS
-Ticker: STACK
-Market Cap: $4,437,937
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: PAC Protocol
+Ticker: PAC
+Market Cap: $4,447,225
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
-Token: Oraichain
-Ticker: ORAI
-Market Cap: $4,425,799
-Date Added to Coingecko: []
-Twitter Followers: []
+Token: Safemars
+Ticker: SAFEMARS
+Market Cap: $4,413,413
+
+Token: Nakamoto Games
+Ticker: NAKA
+Market Cap: $4,407,914
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Gridcoin
+Ticker: GRC
+Market Cap: $4,407,874
 
 Token: Empire Capital
 Ticker: ECC
-Market Cap: $4,404,625
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,406,392
+
+Token: Wombat Exchange
+Ticker: WOM
+Market Cap: $4,392,307
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
 
 Token: rETH2
 Ticker: RETH2
-Market Cap: $4,396,829
-Date Added to Coingecko: []
-Twitter Followers: []
+Market Cap: $4,386,618
+Twitter Join Date: Something went wrong, but don’t fret — let’s give it another shot.
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,995,563
+
+Token: DappRadar
+Ticker: RADAR
+Market Cap: $4,993,225
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,991,225
+
+Token: Push Protocol
+Ticker: PUSH
+Market Cap: $4,966,737
+
+Token: Skey Network
+Ticker: SKEY
+Market Cap: $4,959,513
+
+Token: Safe Haven
+Ticker: SHA
+Market Cap: $4,936,248
+
+Token: Crypton
+Ticker: CRP
+Market Cap: $4,923,894
+
+Token: BYTZ
+Ticker: BYTZ
+Market Cap: $4,911,332
+
+Token: Ridotto
+Ticker: RDT
+Market Cap: $4,907,501
+
+Token: Epik Prime
+Ticker: EPIK
+Market Cap: $4,906,304
+
+Token: DappRadar
+Ticker: RADAR
+Market Cap: $4,999,937
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,995,563
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,991,225
+
+Token: Skey Network
+Ticker: SKEY
+Market Cap: $4,966,769
+
+Token: Push Protocol
+Ticker: PUSH
+Market Cap: $4,966,561
+
+Token: Safe Haven
+Ticker: SHA
+Market Cap: $4,933,778
+
+Token: Crypton
+Ticker: CRP
+Market Cap: $4,920,930
+
+Token: Epik Prime
+Ticker: EPIK
+Market Cap: $4,906,920
+
+Token: Ridotto
+Ticker: RDT
+Market Cap: $4,902,455
+
+Token: BYTZ
+Ticker: BYTZ
+Market Cap: $4,902,309
+
+Token: Rangers Protocol
+Ticker: RPG
+Market Cap: $4,898,649
+
+Token: Cardstack
+Ticker: CARD
+Market Cap: $4,888,877
+
+Token: DappRadar
+Ticker: RADAR
+Market Cap: $4,999,937
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,995,563
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,991,225
+
+Token: DappRadar
+Ticker: RADAR
+Market Cap: $4,999,937
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,995,563
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,991,225
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,994,623
+
+Token: Glitch Protocol
+Ticker: GLCH
+Market Cap: $4,988,313
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,988,217
+
+Token: Push Protocol
+Ticker: PUSH
+Market Cap: $4,965,948
+
+Token: Skey Network
+Ticker: SKEY
+Market Cap: $4,965,745
+
+Token: Edgeless
+Ticker: EDG
+Market Cap: $4,994,623
+
+Token: Glitch Protocol
+Ticker: GLCH
+Market Cap: $4,988,313
+
+Token: XTblock
+Ticker: XTT-B20
+Market Cap: $4,988,217
+
+Token: Push Protocol
+Ticker: PUSH
+Market Cap: $4,965,948
+
+Token: Skey Network
+Ticker: SKEY
+Market Cap: $4,965,745
