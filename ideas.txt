@@ -11,4 +11,46 @@ increments the page number.
 
     for criteria, I probably want like sub 5 or 10m marketcap and created recently - need to figure out how recently I want, though.
 
-    so i need to figure out how to parse the marketcap string into an int to check if it's below 5 million
+    I can have it automatically go to the coin's page by parsing out the coin name (not ticker) and adding that to the url as seen above
+and to be honest I might want to just change the code to get it to print the name instead of (or in addition to) the ticker
+
+    Or I can copy the url snippet directly from the tag - it's like in the one below:
+        <a class="tw-flex tw-items-start md:tw-flex-row tw-flex-col" href="/en/coins/tera">
+    and then just append that on to the https://www.coingecko.com/
+
+    but if I do want to do the name (possibly easier), the element is this:
+    <span class="lg:tw-flex font-bold tw-items-center tw-justify-between">TERA</span>
+
+
+    coingecko does have follower metrics
+    add #socials to the end of the coin url
+    and the div for twitter followers is this:
+    <div class="mt-4 mb-2 text-2xl">21,215</div>
+    which is a child of this guy:
+    <div class="social-circle tw-flex flex-column tw-justify-start tw-items-center">
+    <div class="mt-5"><a rel="nofollow noopener" target="_blank" class="text-3xl" href="https://twitter.com/mtpelerin"><i class="fab fa-twitter-square"></i></a></div>
+    <div class="mt-4 mb-2 text-2xl">16,358</div>
+    <div class="uppercase text-2xs"><span class="translation_missing" title="translation missing: en.coins.socials.social.twitter_followers">Twitter Followers</span></div>
+    </div>
+    I might be able to search by the twitter link or the "twitter followers" text within the span
+
+    and date added to coingecko can be found in this div on the coin page:
+    <text x="2" data-z-index="1" y="15.5">Apr 21, 2021</text>
+    which is a child of this element:
+    <g class="highcharts-label highcharts-range-input" transform="translate(0,0)"><rect class="highcharts-label-box" x="0.5" y="0.5" width="78" height="21"></rect><text x="2" data-z-index="1" y="15.5">Apr 21, 2021</text></g>
+
+    just try and find good person coin to start and then go from there
+
+    getting a bunch of the page you're looking for could not be found errors
+
+    I think I might be better off going to their twitter to find followers
+    and maybe just get the twitter join date from there
+
+    twitter followers div:
+    <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">113.4K</span>
+
+    Twitter joined date div:
+    <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Joined April 2020</span>
+
+    apparently beautifulsoup can't load dynamic pages, and since the elements I want are being created
+    by javascript after the initial load, I need to find a workaround
